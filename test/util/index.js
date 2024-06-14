@@ -11,9 +11,9 @@ const RESPONSE = {
 };
 const USER = {
   id: "cce825bf-09d5-4c8e-a9be-9f4f4a9dba5d",
-  username: "Julin",
-  email: "joão.s@gmail.com",
-  bio: "Sou o julin",
+  username: "Julia",
+  email: "julia@gmail.com",
+  bio: "Sou a julia",
   password: "password123",
 };
 
